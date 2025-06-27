@@ -22,7 +22,7 @@ File: `hotel_booking.xlsx`
 
 ## 📷 Dashboard Preview
 
-> Include a screenshot here:
+
 > ![image](https://github.com/user-attachments/assets/a5055c65-1ec1-434a-8d9d-eb4a159b7565)
 
 
